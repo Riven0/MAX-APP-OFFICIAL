@@ -1,0 +1,37 @@
+.tit{
+	font-family: 'Agency Fb', cursive;
+	padding-top: 4cm;
+	font-size: 35px;
+	color: white; 
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.centrado{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.imagendefondo{
+	background: url("https://images.hdqwalls.com/wallpapers/minimalist-mountains-landscape-scenery-n4.jpg");
+	background-size: cover;
+}
+
+.reg{
+	font-family: 'Agency Fb', cursive;
+	box-shadow: 4px 4px 4px pink;
+	background-color: black;
+	opacity: 0.8;
+}
+
+.on{
+	font-family: 'Agency Fb', cursive;
+	font-size: 25px;
+	text-shadow: 4px 4px 4px pink;
+}
+
+.space {
+	width: 30cm;
+}
